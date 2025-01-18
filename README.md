@@ -46,6 +46,7 @@ Foram realizadas as seguintes etapas:
 - **Distribuição de Tipos de Imóveis**:
   A base apresentou uma ampla variedade de categorias, incluindo Quitinetes, Casas, Apartamentos, Flats, Studios, entre outros.
 
+<br></br>
 
 **Gráfico**:
   Um gráfico com a representação visual do valor médio de aluguel por tipo de imóvel está disponível no arquivo.
