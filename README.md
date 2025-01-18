@@ -28,6 +28,8 @@ Foram realizadas as seguintes etapas:
 4. **Exploração de categorias**:
    - Identificação dos tipos de imóveis presentes na base.
 
+<br></br>
+
 **Resultados**
 
 - **Valor Médio de Aluguel por Tipo de Imóvel**:
