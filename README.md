@@ -10,6 +10,8 @@ Neste projeto foi realizada a análise de duas base de dados, uma de imoveis, e 
 **Resumo**
 Este estudo investiga uma base de dados contendo informações sobre tipos de imóveis, localização (bairros), características estruturais e valores financeiros como aluguel, condomínio e IPTU. Utilizando métodos estatísticos e visualizações gráficas, analisamos as métricas de valor médio de aluguel por tipo de imóvel, a distribuição de tipos de imóveis e insights sobre variações de custo entre categorias. O estudo fornece uma compreensão clara das tendências do mercado imobiliário.
 
+<br></br>
+
 **Metodologia**
 Foram realizadas as seguintes etapas:
 
