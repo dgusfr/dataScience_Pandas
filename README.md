@@ -1,7 +1,6 @@
 # Introdução ao Pandas para Análise de Dados
 
-Neste projeto foi realizada a analise de duas base de dados, uma de imoveis, e outra de dados de clientes
-
+Neste projeto foi realizada a análise de duas base de dados, uma de imoveis, e outra de dados de clientes de uma mepresa fictícia.
 
 ## Arquivo Pandas Introduction
 **Análise Comparativa de Dados de Imóveis**
