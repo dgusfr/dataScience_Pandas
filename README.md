@@ -60,3 +60,4 @@ Foram realizadas as seguintes etapas:
 
 Este estudo proporciona insights importantes sobre o mercado imobiliário e serve como base para análises mais detalhadas, como correlações entre localização, preço e demanda.
 
+## Análisado por Diego Franco.
