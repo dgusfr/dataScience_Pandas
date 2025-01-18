@@ -1,5 +1,5 @@
 # Introdução ao Pandas para Análise de Dados
-Neste
+Neste projeto foi realizada a analise de 
 ## Arquivo Pandas Introduction
 **Análise Comparativa de Dados de Imóveis**
 
