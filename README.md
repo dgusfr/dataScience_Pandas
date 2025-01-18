@@ -1,18 +1,18 @@
 # Introdução ao Pandas para Análise de Dados
 
-Neste projeto foi realizada a análise de duas base de dados, uma de imoveis, e outra de dados de clientes de uma mepresa fictícia.
+Neste projeto foi realizada a análise de duas bases de dados, uma de imóveis, e outra de dados de clientes de uma empresa fictícia.
 
 ## Arquivo Pandas Introduction
 **Análise Comparativa de Dados de Imóveis**
 
-<br></br>
+<br>
 
-**Resumo**
+**Resumo**  
 Este estudo investiga uma base de dados contendo informações sobre tipos de imóveis, localização (bairros), características estruturais e valores financeiros como aluguel, condomínio e IPTU. Utilizando métodos estatísticos e visualizações gráficas, analisamos as métricas de valor médio de aluguel por tipo de imóvel, a distribuição de tipos de imóveis e insights sobre variações de custo entre categorias. O estudo fornece uma compreensão clara das tendências do mercado imobiliário.
 
-<br></br>
+<br>
 
-**Metodologia**
+**Metodologia**  
 Foram realizadas as seguintes etapas:
 
 1. **Leitura e limpeza dos dados**:
@@ -28,11 +28,11 @@ Foram realizadas as seguintes etapas:
 4. **Exploração de categorias**:
    - Identificação dos tipos de imóveis presentes na base.
 
-<br></br>
+<br>
 
 **Resultados**
 
-- **Valor Médio de Aluguel por Tipo de Imóvel**:
+- **Valor Médio de Aluguel por Tipo de Imóvel**:  
   Os principais tipos de imóveis com os valores médios calculados foram:
 
   | Tipo                              | Valor Médio (R$) |
@@ -43,17 +43,17 @@ Foram realizadas as seguintes etapas:
   | Conjunto Comercial/Sala          | 14.715,05        |
   | Prédio Inteiro                  | 498.637,24       |
 
-- **Distribuição de Tipos de Imóveis**:
+- **Distribuição de Tipos de Imóveis**:  
   A base apresentou uma ampla variedade de categorias, incluindo Quitinetes, Casas, Apartamentos, Flats, Studios, entre outros.
 
-<br></br>
+<br>
 
-**Gráfico**:
+**Gráfico**:  
   Um gráfico com a representação visual do valor médio de aluguel por tipo de imóvel está disponível no arquivo.
 
 ![Valor Médio de Aluguel](images/valor.png)
 
-<br></br>
+<br>
 
 **Conclusões**
 
@@ -69,6 +69,6 @@ Foram realizadas as seguintes etapas:
 
 Este estudo proporciona insights importantes sobre o mercado imobiliário e serve como base para análises mais detalhadas, como correlações entre localização, preço e demanda.
 
-<br></br>
+<br>
 
 ## Análisado por Diego Franco.
