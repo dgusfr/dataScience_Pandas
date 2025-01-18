@@ -1,4 +1,4 @@
-# Introdução ao Pandas para 
+# Introdução ao Pandas para Análise de Dados
 
 **Análise Comparativa de Dados de Imóveis**
 
