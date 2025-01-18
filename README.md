@@ -53,6 +53,8 @@ Foram realizadas as seguintes etapas:
 
 ![Valor Médio de Aluguel](images/valor.png)
 
+<br></br>
+
 **Conclusões**
 
 1. **Tendências de Mercado**:
