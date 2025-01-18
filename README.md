@@ -41,7 +41,9 @@ Foram realizadas as seguintes etapas:
   A base apresentou uma ampla variedade de categorias, incluindo Quitinetes, Casas, Apartamentos, Flats, Studios, entre outros.
 
 - **Gráfico**:
-  Um gráfico com a representação visual do valor médio de aluguel por tipo de imóvel está disponível no arquivo [valor_medio_aluguel.png](sandbox:/mnt/data/valor_medio_aluguel.png).
+  Um gráfico com a representação visual do valor médio de aluguel por tipo de imóvel está disponível no arquivo.
+
+![Valor Médio de Aluguel](images/valor.png)
 
 **Conclusões**
 
