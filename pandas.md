@@ -148,6 +148,3 @@ O Pandas é um componente essencial do ecossistema de análise de dados em Pytho
 **Boas práticas e recomendações**:
 - Mantenha a consistência de tipos de dados para evitar problemas de concatenação ou mesclagem de dados.
 - Faça uso de indexação de forma estratégica, pois índices bem definidos facilitam consultas e agregações.
-- Crie cópias explícitas de DataFrames (`df.copy()`) quando necessário, para evitar modificações inadvertidas nos dados originais.
-- Aproveite a integração com bibliotecas de visualização como Matplotlib e Seaborn para explorar de forma mais intuitiva padrões e tendências em seus dados.
-
