@@ -146,5 +146,4 @@ agrupado = df.groupby("Categoria")["Vendas"].sum()
 O Pandas é um componente essencial do ecossistema de análise de dados em Python. Suas estruturas de dados e métodos tornam o processo de coleta, limpeza e transformação de dados mais simples e eficiente. Neste material, cobrimos os conceitos básicos para que você possa iniciar a análise de dados com o Pandas de maneira sólida. 
 
 **Boas práticas e recomendações**:
-- Mantenha a consistência de tipos de dados para evitar problemas de concatenação ou mesclagem de dados.
-- Faça uso de indexação de forma estratégica, pois índices bem definidos facilitam consultas e agregações.
+
