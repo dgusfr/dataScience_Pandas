@@ -141,8 +141,6 @@ agrupado = df.groupby("Categoria")["Vendas"].sum()
 
 ---
 
-## <a name="conclusao"></a>9. Conclusão
-
 
 ---
 
