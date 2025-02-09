@@ -151,4 +151,3 @@ O Pandas é um componente essencial do ecossistema de análise de dados em Pytho
 - Crie cópias explícitas de DataFrames (`df.copy()`) quando necessário, para evitar modificações inadvertidas nos dados originais.
 - Aproveite a integração com bibliotecas de visualização como Matplotlib e Seaborn para explorar de forma mais intuitiva padrões e tendências em seus dados.
 
-Esperamos que este material sirva de base para suas análises utilizando Pandas. Bons estudos, Diego!
