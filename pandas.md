@@ -1,6 +1,4 @@
 Diego, segue abaixo a apostila introdutória de análise de dados com Pandas no formato Markdown. Essa apostila aborda conceitos básicos, exemplos de código e algumas boas práticas. 
-
----
 # Apostila Introdutória de Análise de Dados com Pandas
 
 ## Índice
